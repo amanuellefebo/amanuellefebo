@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanuellefebo
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning my second MSC degree in Data Science
+- 🌱 I have graduated with my second MSC degree in Data Science(Distiniction)
 - 💞️ I’m looking to collaborate on any intersted project which related to Machine learning,AI or Data Analysis
 - 📫 write me in email amanuelmarkos.1@gmail.com
 - 😄 Pronouns: Mr.
